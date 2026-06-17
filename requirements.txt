@@ -1,0 +1,6 @@
+langchain
+langchain-text-splitters
+requests
+beautifulsoup4
+sentence-transformers
+chromadb
